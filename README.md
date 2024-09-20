@@ -14,7 +14,7 @@ Git Discover is a user-friendly application designed for developers to explore a
 ## Technologies Used
 - **Frontend**: 
   - HTML, CSS, JavaScript
-  - Frameworks: React.js (or any other chosen framework)
+ 
   - CSS Animations: For interactive UI elements
 - **Backend**: 
   - REST API for GitHub to fetch repository data
