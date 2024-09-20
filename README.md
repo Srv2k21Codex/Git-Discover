@@ -22,4 +22,4 @@ Git Discover is a user-friendly application designed for developers to explore a
   - Hosted on platform  GitHub Pages
 
 ## Getting Started
-- link of the project :
+- link of the project :  https://srv2k21codex.github.io/Git-Discover/
